@@ -11,7 +11,7 @@ I'm Site Reliability Engineer at VMWare, Open Source Enthusiast.
 
 * Go / Python / Shell Scripting
 * Container & Kubernetes
-* Cloud
+* Cloud Native
 * Open Source
 
 ### ✈️ Get in touch
