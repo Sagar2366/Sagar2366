@@ -18,5 +18,3 @@ I'm Site Reliability Engineer at VMWare, an Open Source Enthusiast.
 
 * Twitter: https://twitter.com/me_sagar_utekar
 * LinkedIn: https://www.linkedin.com/in/sagar-utekar/
-* < img src="https://user-images.githubusercontent.com/26805882/198915902-6d5df610-3edd-4e0e-9225-3a9676c92e47.png" width="500")
-
