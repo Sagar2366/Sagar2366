@@ -5,7 +5,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-utekar/)
 
 ### Hi there, I'm Sagar Utekar 👋
-I'm Site Reliability Engineer at VMWare, an Open Source Enthusiast.
+I'm Site Reliability Engineer at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
 
 ### 🔍 Interest
 
