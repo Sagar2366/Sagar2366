@@ -13,6 +13,8 @@ I'm Site Reliability Engineer at VMWare Software India Pvt. Ltd., an Open Source
 * Container & Kubernetes
 * Cloud Native
 * Open Source
+* DevOps
+* Site Reliability Engineering 
 
 ### ✈️ Get in touch
 
