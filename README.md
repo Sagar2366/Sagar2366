@@ -5,7 +5,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-utekar/)
 ![](https://komarev.com/ghpvc/?username=Sagar2366&color=green&style=for-the-badge)
 
-### Hi there, I'm Sagar Utekar 👋
+### Hi there, I'm Sagar Utekar 😃👋
 I'm Site Reliability Engineer at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
 
 ### 🔍 Interest
