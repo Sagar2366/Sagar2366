@@ -15,6 +15,7 @@ I'm Site Reliability Engineer at VMWare Software India Pvt. Ltd., an Open Source
 * Cloud Native
 * Open Source
 * DevOps
+* Infrastructure as a Code (IaaC)
 * Site Reliability Engineering (SRE)
 
 ### ✈️ Get in touch
