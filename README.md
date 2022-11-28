@@ -8,7 +8,7 @@
 ### Hi there, I'm Sagar Utekar 😃👋
 I'm Site Reliability Engineer at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
 
-### 🔍 Interest
+### 🔍 Interests
 
 * Go / Python / Shell Scripting
 * Container & Kubernetes Administration + Security
