@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Sagar2366&color=green&style=for-the-badge)
 
 ### Hi there, I'm Sagar Utekar 😃👋
-I'm Site Reliability Engineer Mts3 at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
+I'm Site Reliability Engineer MTS3 at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
 Docker Pune community leader
 
 ### 🔍 Interests
