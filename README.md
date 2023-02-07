@@ -7,7 +7,7 @@
 
 ### Hi there, I'm Sagar Utekar 😃👋
 I'm Site Reliability Engineer MTS3 at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
-Docker Pune community leader
+Docker Pune & CNCF Pune community leader
 
 ### 🔍 Interests
 
