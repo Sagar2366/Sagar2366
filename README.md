@@ -21,8 +21,10 @@ Docker Pune & CNCF Pune community leader
 
 ### ✈️ Get in touch
 
-* Twitter: https://twitter.com/me_sagar_utekar
-* LinkedIn: https://www.linkedin.com/in/sagar-utekar/
-* Instagram: https://www.instagram.com/me_sagar_utekar/
+#[Twitter](https://twitter.com/me_sagar_utekar)
+
+#[LinkedIn](https://www.linkedin.com/in/sagar-utekar/)
+
+#[Instagra](https://www.instagram.com/me_sagar_utekar/)
 
 Credly Link - https://www.credly.com/users/sagar-utekar/badges
