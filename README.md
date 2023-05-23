@@ -27,4 +27,18 @@ Docker Pune & CNCF Pune community leader
 
 #[Instagra](https://www.instagram.com/me_sagar_utekar/)
 
+
+### Tools 
+## Containerisation tools
+## Infrastructure management tools
+
+## Programming Language
+
+### Blog links
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sagar2366&show_icons=true&theme=gotham" alt="Sagar2366" />
+
 Credly Link - https://www.credly.com/users/sagar-utekar/badges
