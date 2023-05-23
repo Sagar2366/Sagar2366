@@ -47,6 +47,8 @@ Docker Pune & CNCF Pune community leader
 ## Programming Language
 
 ### Blog links
+<!-- BLOGPOSTS:START --> 
+<!-- BLOGPOSTS:END -->
 
 
 📈 my github stats
