@@ -48,7 +48,7 @@ Docker Pune & CNCF Pune community leader
 
 ### Blog links
 <!-- BLOGPOSTS:START -->
- - 💯 [What is #getfitwithsagar](https://getfitwithsagar.hashnode.dev/what-is-getfitwithsagar)<!-- BLOGPOSTS:END -->
+<!-- BLOGPOSTS:END -->
 
 
 📈 my github stats
