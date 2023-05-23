@@ -1,4 +1,4 @@
-![cover image](https://user-images.githubusercontent.com/29445112/87068345-61128f80-c250-11ea-8dc8-dfbcf54b13d4.png)
+![cover image](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
 
 [![twitter badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me_sagar_utekar) 
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me_sagar_utekar) 
