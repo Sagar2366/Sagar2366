@@ -30,8 +30,12 @@ Docker Pune & CNCF Pune community leader
 
 ### Tools 
 
+<h3 align="left">Version Control System :</h3>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logo@2x.png" alt="git" width="40" height="40"/> </a> 
+
 <h3 align="left">Languages :</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+
 
 
 <h3 align="left">Languages and Tools:</h3>
