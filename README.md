@@ -57,3 +57,6 @@ Docker Pune & CNCF Pune community leader
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sagar2366&show_icons=true&theme=gotham" alt="Sagar2366" />
 
 [Credly Link](https://www.credly.com/users/sagar-utekar/badges)
+
+Upcoming projects :
+
