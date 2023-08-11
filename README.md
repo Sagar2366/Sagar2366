@@ -6,8 +6,13 @@
 ![](https://komarev.com/ghpvc/?username=Sagar2366&color=green&style=for-the-badge)
 
 ### Hi there, I'm Sagar Utekar 😃👋
-I'm Site Reliability Engineer MTS3 at VMWare Software India Pvt. Ltd., an Open Source Enthusiast.
-Docker Pune & CNCF Pune community leader
+Hi, meet Sagar Utekar, YouTuber - @LearnWithSagar2, and an experienced Site Reliability Engineer @VMWare and Technical Trainer, fitness enthusiast, passionate about teaching (DevOps, SRE, Cloud, Open Source).
+
+My vision is to provide top notch education for free/minimal cost to help learners to transition their career into IT, irrespective of their background. 
+
+Sagar will be teacher, trainer, coach , mentor. He has over 6+ years of experience and feels proud and honoured to train more than 8000+ learners to get their dream jobs in IT.
+
+Sagar is also Docker Pune, CNCF Pune & Grafana Pune community leader.
 
 ### 🔍 Interests
 
