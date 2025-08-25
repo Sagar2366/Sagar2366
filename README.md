@@ -1,4 +1,4 @@
-![cover image](./assets/tools_intro.jpg)
+
 
 [![twitter badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/me_sagar_utekar) 
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me_sagar_utekar) 
