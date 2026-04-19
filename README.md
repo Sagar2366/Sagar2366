@@ -1,11 +1,11 @@
-# Hi there, I'm Sagar Utekar! 👋 
+# Hi there, I'm Sagar Utekar! 👋
 ### Site Reliability Engineer @CrowdStrike | CNCF & Docker Community Leader | YouTuber
 
 <p align="left">
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@sagar.utekar"><img src="https://shields.io" alt="YouTube" /></a>
-<a href="https://twitter.com"><img src="https://shields.io" alt="Twitter" /></a>
-<img src="https://komarev.com" alt="Views" />
+<a href="https://www.linkedin.com/in/sagar-utekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@sagar.utekar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://twitter.com/me_sagar_utekar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<img src="https://komarev.com/ghpvc/?username=Sagar2366&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
 ---
@@ -22,7 +22,6 @@
 ### 📺 Top Learning Resources (YouTube)
 *My channel focuses on production-grade knowledge and roadmap-driven learning to help you scale your career.*
 
-
 | Series / Project | Description | Link |
 | :--- | :--- | :--- |
 | 🗺 **DevOps 2026 Roadmap** | The exact, no-BS guide to mastering DevOps and SRE in the modern era. | [Watch Now](https://youtube.com) |
@@ -32,34 +31,11 @@
 
 ---
 
-### 🛠 Tech Stack & Expertise
-<p align="left">
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="K8s" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Terraform" />
-  <img src="https://shields.io" alt="Prometheus" />
-  <img src="https://shields.io" alt="Grafana" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://vercel.app" alt="Sagar's Stats" />
-<br>
-<img src="https://herokuapp.com" alt="Sagar's Streak" />
-</p>
-
----
-
 ### 📬 Let's Connect
 <p align="left">
-<a href="https://twitter.com"><img src="https://shields.io" /></a>
-<a href="https://linkedin.com"><img src="https://shields.io" /></a>
-<a href="https://instagram.com"><img src="https://shields.io" /></a>
+<a href="https://twitter.com/me_sagar_utekar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/sagar-utekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/me_sagar_utekar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 **⭐️ Star my repos if you find my content helpful for your career journey!**
